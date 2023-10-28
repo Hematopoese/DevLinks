@@ -18,7 +18,7 @@ Landing page responsiva para divulgar alguns links legais desta lenda viva em pe
 <br>
 
 <p align="center">
-  <img alt="Devlinks" src=".github/banner.png" width="100%">
+  <img alt="Devlinks" src=".github/cape.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
