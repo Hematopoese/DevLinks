@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Site de âncoragem de links.
+Landing page responsiva para divulgar alguns links legais desta lenda viva em pessoa.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Site de âncoragem de links.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
@@ -32,11 +32,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Descrição do projeto que vou fazer mais tarde.
+Esta web page foi desenvolvidade durante um programa online e gratuito da [Rocketseat](https://www.rocketseat.com.br) com o intuito pessoal de ampliar meus conhecimentos com tecnologias web de front-end e aprender alguns truques novos.
 
-## 🔖 Layout
+## 🔖 Layout mobile
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BZxdGQd1XC9uL7F7qKvede/DevLinks?type=design&node-id=0-1&mode=design&t=wUtVHwKAfddlpsCW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto com mais detalhes através [DESSE LINK](https://www.figma.com/file/BZxdGQd1XC9uL7F7qKvede/DevLinks?type=design&node-id=0-1&mode=design&t=wUtVHwKAfddlpsCW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ junto com a Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ junto com a [Rocketseat](https://www.rocketseat.com.br)
