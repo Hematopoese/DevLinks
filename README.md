@@ -18,7 +18,7 @@ Site de âncoragem de links.
 <br>
 
 <p align="center">
-  <img alt="Devlinks" src=".github/cape.jpg" width="100%">
+  <img alt="Devlinks" src=".github/banner.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
